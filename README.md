@@ -47,7 +47,6 @@ fields_of_interests:
   ]
 
 currently_learning: ["Spring Security", "Redis", "Docker", "Performance Tuning"]
-2025_goals: ["오픈소스 기여"]
 hobbies: ["코딩", "영화", "독서"]
 ```
 
