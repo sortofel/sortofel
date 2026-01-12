@@ -49,10 +49,3 @@ fields_of_interests:
 currently_learning: ["Spring Security", "Redis", "Docker", "Performance Tuning"]
 hobbies: ["코딩", "영화", "독서"]
 ```
-
-<table>
-  <tr>
-    <td><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sortofel&theme=graywhite" /></td>
-    <td><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sortofel&theme=graywhite" /></td>
-  </tr>
-</table>
